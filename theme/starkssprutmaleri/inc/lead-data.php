@@ -18,7 +18,7 @@ return array(
 		array( 'Schönes Restaurant nur das Bier war warm', 'Ronald Kiessig', 'för 3 år sedan' ),
 		array( 'Bästa rödfärgen', 'Stefan Jakobsson', 'för 3 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg' ),
+	'bild_hero'      => 'foto-2.jpg',
+	'bilder'         => array( 'foto-3.jpg' ),
 	'ar_riktig'      => true,
 );
