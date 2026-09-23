@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Starks Sprutmåleri AB',
+	'bransch'        => 'Målare',
 	'telefon'        => '0502-201 14',
 	'telefon_tel'    => '+4650220114',
 	'ort'            => 'Tidaholm',
